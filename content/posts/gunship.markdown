@@ -2,7 +2,7 @@ title: Gunship
 slug: gunship
 category: bands
 date: 2017-06-09
-modified: 2017-06-09
+modified: 2017-06-10
 
 
 [Gunship](https://www.gunshipmusic.com/) is a *retro synthwave* artist out of the UK.
