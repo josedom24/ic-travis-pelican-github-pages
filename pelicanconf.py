@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'José Domingo Muñoz'
-SITENAME = 'Web Prueba'
+AUTHOR = u'Jos\xe9 Domingo Mu\xf1oz'
+SITENAME = u'Prueba JDMR'
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'es'
+DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
